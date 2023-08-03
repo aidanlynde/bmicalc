@@ -55,4 +55,4 @@ function calculateBMI() {
     }
   
     resultDiv.innerHTML = "Your BMI is " + bmi.toFixed(2) + " (" + category + ")";
-  }
+  } 
