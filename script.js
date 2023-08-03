@@ -26,7 +26,7 @@ function calculateBMI() {
   
     resultDiv.innerHTML = "Your BMI is " + bmi.toFixed(2) + " (" + category + ")";
   }
-  //@codewithcurious.com
+
   
   function calculateBMI() {
     var heightInput = document.getElementById("height");
